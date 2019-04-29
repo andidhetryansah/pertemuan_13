@@ -1,0 +1,2 @@
+Perbedaan linier dengan sirkular:
+    Sirkular memiliki pointer next yang akan menunujuk diri sendiri sehingga berputar, sednagkan linier tidak berputar
